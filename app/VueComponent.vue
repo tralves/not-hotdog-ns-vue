@@ -1,5 +1,5 @@
 <template>
-  <label>A {{val}} component.</label>
+  <label>A {{val}} component.2</label>
 </template>
 
 <script>
