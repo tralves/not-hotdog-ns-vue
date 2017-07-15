@@ -9,17 +9,18 @@ by taking a picture and pressing the "Hotdog or Not?" button!
 
 At the time of writing, the app does not work, though due to weird crashes :(...
 
-### Purpose
+## Purpose
 
 This app was built to test the [nativescript-vue](https://github.com/rigor789/nativescript-vue) plugin and to participate in the
 NativeScript's [2017 Sweetness and Light Summer App Contest!](https://www.nativescript.org/blog/2017-sweetness-and-light-summer-app-contest).
 
-### Screenshots
+## Screenshots
 
 ![Android version](/screenshots/hotdog-or-not-android.png?raw=true "Android version")
+-
 ![iOS version](/screenshots/hotdog-or-not-ios.png?raw=true "iOS version")
 
-### Status
+## Status
 
 - [x] App built with Vue and NativeScript.
 - [x] Uses single file components (sort of...).
@@ -28,7 +29,7 @@ NativeScript's [2017 Sweetness and Light Summer App Contest!](https://www.native
 - [ ] Works in iOS.
 - [x] Awesome icon!
 
-# Usage
+## Usage
 
 1. Clone this repository
 ```bash
