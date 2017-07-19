@@ -16,8 +16,7 @@ NativeScript's [2017 Sweetness and Light Summer App Contest!](https://www.native
 
 ## Screenshots
 
-![Android version](/screenshots/hotdog-or-not-android.png?raw=true "Android version")
--
+![Android version](/screenshots/hotdog-or-not-android.png?raw=true "Android version") - 
 ![iOS version](/screenshots/hotdog-or-not-ios.png?raw=true "iOS version")
 
 ## Status
